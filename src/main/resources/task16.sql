@@ -1,0 +1,1 @@
+SELECT MIN(DISTINCT salary) FROM employees;
