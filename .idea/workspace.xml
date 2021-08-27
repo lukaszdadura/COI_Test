@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0152da13-2b31-4f2a-9e22-5fa0190b7b6f" name="Default Changelist" comment="Task17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task8.java" afterDir="false" />
+    <list default="true" id="0152da13-2b31-4f2a-9e22-5fa0190b7b6f" name="Default Changelist" comment="Task8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
+  <component name="RunManager" selected="Application.Task9">
     <configuration name="Task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task17" />
       <module name="COI_Test" />
@@ -55,6 +55,13 @@
     </configuration>
     <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task8" />
+      <module name="COI_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task9" />
       <module name="COI_Test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task17" />
       </list>
@@ -86,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630060858664</updated>
-      <workItem from="1630060860102" duration="9616000" />
+      <workItem from="1630060860102" duration="12062000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1630065219317</created>
@@ -116,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630072063782</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task8">
+      <created>1630073827807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630073827807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +152,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="SQL queries" />
     <MESSAGE value="Task17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task17" />
+    <MESSAGE value="Task8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task8" />
   </component>
 </project>
