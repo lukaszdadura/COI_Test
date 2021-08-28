@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0152da13-2b31-4f2a-9e22-5fa0190b7b6f" name="Default Changelist" comment="Task8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task9.java" afterDir="false" />
+    <list default="true" id="0152da13-2b31-4f2a-9e22-5fa0190b7b6f" name="Default Changelist" comment="Task9 without tests">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task9Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/task15.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/task15.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -35,6 +38,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,6 +48,12 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Task9">
@@ -94,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630060858664</updated>
-      <workItem from="1630060860102" duration="12062000" />
+      <workItem from="1630060860102" duration="13267000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1630065219317</created>
@@ -131,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630073827807</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task9 without tests">
+      <created>1630076265693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076265693</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +171,7 @@
     <MESSAGE value="SQL queries" />
     <MESSAGE value="Task17" />
     <MESSAGE value="Task8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task8" />
+    <MESSAGE value="Task9 without tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task9 without tests" />
   </component>
 </project>
